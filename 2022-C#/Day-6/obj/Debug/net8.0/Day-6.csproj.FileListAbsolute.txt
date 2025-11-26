@@ -1,0 +1,14 @@
+D:\coding\Personal\AdventOfCode\2022\Day-6\bin\Debug\net8.0\Day-6.exe
+D:\coding\Personal\AdventOfCode\2022\Day-6\bin\Debug\net8.0\Day-6.deps.json
+D:\coding\Personal\AdventOfCode\2022\Day-6\bin\Debug\net8.0\Day-6.runtimeconfig.json
+D:\coding\Personal\AdventOfCode\2022\Day-6\bin\Debug\net8.0\Day-6.dll
+D:\coding\Personal\AdventOfCode\2022\Day-6\bin\Debug\net8.0\Day-6.pdb
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.AssemblyInfoInputs.cache
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.AssemblyInfo.cs
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.csproj.CoreCompileInputs.cache
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.dll
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\refint\Day-6.dll
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.pdb
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\Day-6.genruntimeconfig.cache
+D:\coding\Personal\AdventOfCode\2022\Day-6\obj\Debug\net8.0\ref\Day-6.dll

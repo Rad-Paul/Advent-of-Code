@@ -1,0 +1,14 @@
+D:\coding\Personal\AdventOfCode\2020\Day-3\bin\Debug\net8.0\Day-3.exe
+D:\coding\Personal\AdventOfCode\2020\Day-3\bin\Debug\net8.0\Day-3.deps.json
+D:\coding\Personal\AdventOfCode\2020\Day-3\bin\Debug\net8.0\Day-3.runtimeconfig.json
+D:\coding\Personal\AdventOfCode\2020\Day-3\bin\Debug\net8.0\Day-3.dll
+D:\coding\Personal\AdventOfCode\2020\Day-3\bin\Debug\net8.0\Day-3.pdb
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.AssemblyInfoInputs.cache
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.AssemblyInfo.cs
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.csproj.CoreCompileInputs.cache
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.dll
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\refint\Day-3.dll
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.pdb
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\Day-3.genruntimeconfig.cache
+D:\coding\Personal\AdventOfCode\2020\Day-3\obj\Debug\net8.0\ref\Day-3.dll
